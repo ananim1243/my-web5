@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+footer {
+  display: flex;
+}
+
+
+
+.header-div-1 {
+  display: flex;
+}
+ 
+.header-button-1 {
+  margin-left: 450px;
+}
+.main-div-1 {
+  display: flex;
+  margin-left: 60px;
+}
+.main-div-2 {
+  margin-top: 150px;
+
+}
+.main-div-3 {
+  margin-left: 450px;
+  
+}
+.main-img-1 {
+  margin-left: 300px;
+}
+.main-div-4 {
+  text-align: center;
+}
